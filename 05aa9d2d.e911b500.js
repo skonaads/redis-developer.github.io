@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{73:function(e){e.exports=JSON.parse('{"allTagsPath":"/redis-developer/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/redis-developer/blog/tags/hola"}')}}]);

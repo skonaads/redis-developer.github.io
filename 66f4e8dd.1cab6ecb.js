@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{87:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/redis-developer/blog/welcome"},{"title":"Hello","permalink":"/redis-developer/blog/hello-world"},{"title":"Hola","permalink":"/redis-developer/blog/hola"}]}')}}]);
